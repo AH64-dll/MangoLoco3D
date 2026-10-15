@@ -1,0 +1,12 @@
+Extensions: writing cache failed ([Errno 30] Read-only file system: '/home/amrhares/.config/blender/5.2/extensions/.cache/compat.dat').
+Info: Saved as "mango_loco_liquid.blend"
+BAKE_DATA_START //../cache/liquid/test_v3
+09:00.628  reports          | Fluid: Bake Data complete (539.61s)
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:34:58)
+BAKE_DATA_FINISHED {'FINISHED'} True 539.6698336520058
+09:06.237  reports          | Fluid: Bake Mesh complete (5.55s)
+BAKE_MESH_FINISHED {'FINISHED'} True 545.2744723510114
+Info: Saved as "mango_loco_liquid.blend"
+Info: Saved as "mango_loco_liquid.blend"
+Info: Saved as "mango_loco_liquid.blend"
+BUILD_DONE /run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/blender/mango_loco_liquid.blend

@@ -1,0 +1,10 @@
+00:00.310  blend            | Read blend: "/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/blender/mango_loco_studio.blend"
+BlenderMCP addon registered
+{
+  "report": "/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/reports/validation_mango_loco_studio.json",
+  "errors": [],
+  "fluid": null
+}
+BlenderMCP addon unregistered
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:34:58)
+pa_write() failed while trying to wake up the mainloop: Operation not permitted

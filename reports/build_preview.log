@@ -1,0 +1,16 @@
+00:00.881  image.write      | ERROR OpenImageIO write failed: Could not open file "/home/amrhares/.cache/thumbnails/large/blender_3_29a9b67c2d906c1512e4270e310194e3.png.png"
+00:11.799  render           | Saved: '/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/front.png'
+Extensions: writing cache failed ([Errno 30] Read-only file system: '/home/amrhares/.config/blender/5.2/extensions/.cache/compat.dat').
+Info: Saved as "mango_loco_studio.blend"
+RENDER_DONE /run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/front.png
+00:22.261  render           | Saved: '/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/three_quarter.png'
+RENDER_DONE /run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/three_quarter.png
+00:29.777  render           | Saved: '/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/side.png'
+RENDER_DONE /run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/side.png
+00:38.506  render           | Saved: '/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/top.png'
+RENDER_DONE /run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/top.png
+00:38.557  image.write      | ERROR OpenImageIO write failed: Could not open file "/home/amrhares/.cache/thumbnails/large/blender_3_29a9b67c2d906c1512e4270e310194e3.png.png"
+Info: Saved as "mango_loco_studio.blend"
+BUILD_DONE /run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/blender/mango_loco_studio.blend
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:34:58)
+pa_write() failed while trying to wake up the mainloop: Operation not permitted

@@ -1,0 +1,160 @@
+00:00.464  blend            | Read blend: "/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/blender/mango_loco_liquid.blend"
+{
+  "report": "/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/reports/validation_mango_loco_liquid.json",
+  "errors": [],
+  "fluid": {
+    "data_baked": true,
+    "mesh_baked": true,
+    "cache": "//../cache/liquid/pour_verified_v4",
+    "cache_exists": true,
+    "frames": [
+      {
+        "frame": 1,
+        "vertices": 15030,
+        "faces": 30052,
+        "outside_lower_can_vertices": 0,
+        "receiver_vertices": 0,
+        "bounds": [
+          [
+            -0.024894380941987038,
+            0.02557666227221489
+          ],
+          [
+            -0.02489975094795227,
+            0.025585785508155823
+          ],
+          [
+            0.006864875555038452,
+            0.11891476064920425
+          ]
+        ]
+      },
+      {
+        "frame": 8,
+        "vertices": 16354,
+        "faces": 32700,
+        "outside_lower_can_vertices": 0,
+        "receiver_vertices": 0,
+        "bounds": [
+          [
+            -0.029762407764792442,
+            0.030073655769228935
+          ],
+          [
+            -0.027705691754817963,
+            0.02783091366291046
+          ],
+          [
+            0.006673917174339294,
+            0.1043110340833664
+          ]
+        ]
+      },
+      {
+        "frame": 20,
+        "vertices": 13272,
+        "faces": 26536,
+        "outside_lower_can_vertices": 0,
+        "receiver_vertices": 0,
+        "bounds": [
+          [
+            -0.029644984751939774,
+            0.02994708903133869
+          ],
+          [
+            -0.0858929306268692,
+            0.0030941739678382874
+          ],
+          [
+            0.02211982011795044,
+            0.09748953580856323
+          ]
+        ]
+      },
+      {
+        "frame": 32,
+        "vertices": 7572,
+        "faces": 15136,
+        "outside_lower_can_vertices": 12,
+        "receiver_vertices": 0,
+        "bounds": [
+          [
+            -0.024253670126199722,
+            0.024586766958236694
+          ],
+          [
+            -0.18503671884536743,
+            -0.03391815349459648
+          ],
+          [
+            0.030710402876138687,
+            0.09822013229131699
+          ]
+        ]
+      },
+      {
+        "frame": 44,
+        "vertices": 6420,
+        "faces": 12840,
+        "outside_lower_can_vertices": 0,
+        "receiver_vertices": 60,
+        "bounds": [
+          [
+            -0.02322663925588131,
+            0.022652510553598404
+          ],
+          [
+            -0.19325652718544006,
+            -0.04391292482614517
+          ],
+          [
+            0.008615128695964813,
+            0.09009534865617752
+          ]
+        ]
+      },
+      {
+        "frame": 56,
+        "vertices": 6456,
+        "faces": 12908,
+        "outside_lower_can_vertices": 6,
+        "receiver_vertices": 301,
+        "bounds": [
+          [
+            -0.05677594617009163,
+            0.024178236722946167
+          ],
+          [
+            -0.21042034029960632,
+            -0.04408480226993561
+          ],
+          [
+            0.000661209225654602,
+            0.08990184217691422
+          ]
+        ]
+      },
+      {
+        "frame": 64,
+        "vertices": 7666,
+        "faces": 15364,
+        "outside_lower_can_vertices": 0,
+        "receiver_vertices": 1966,
+        "bounds": [
+          [
+            -0.026783684268593788,
+            0.028788622468709946
+          ],
+          [
+            -0.23466697335243225,
+            -0.04408218339085579
+          ],
+          [
+            0.007065027952194214,
+            0.0879574865102768
+          ]
+        ]
+      }
+    ]
+  }
+}

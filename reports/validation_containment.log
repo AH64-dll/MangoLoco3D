@@ -1,0 +1,51 @@
+00:00.449  blend            | Read blend: "/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/blender/mango_loco_liquid_test.blend"
+{
+  "report": "/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/reports/validation_mango_loco_liquid_test.json",
+  "errors": [],
+  "fluid": {
+    "data_baked": true,
+    "mesh_baked": true,
+    "cache": "//../cache/liquid/test_v3_test8",
+    "cache_exists": true,
+    "frames": [
+      {
+        "frame": 1,
+        "vertices": 15030,
+        "faces": 30052,
+        "bounds": [
+          [
+            -0.024894380941987038,
+            0.02557666227221489
+          ],
+          [
+            -0.02489975094795227,
+            0.025585785508155823
+          ],
+          [
+            0.006864875555038452,
+            0.11891476064920425
+          ]
+        ]
+      },
+      {
+        "frame": 8,
+        "vertices": 16086,
+        "faces": 32164,
+        "bounds": [
+          [
+            -0.02943773753941059,
+            0.029948119074106216
+          ],
+          [
+            -0.02746686339378357,
+            0.02771865576505661
+          ],
+          [
+            0.006624095141887665,
+            0.11088987439870834
+          ]
+        ]
+      }
+    ]
+  }
+}

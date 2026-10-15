@@ -1,0 +1,12 @@
+# Simulation caches and machine-local state are derived data. Rebake with
+# scripts/bake_liquid.py, or download the verified pour cache from the v1.0
+# GitHub release asset (extract into cache/liquid/).
+cache/
+blender/*.blend1
+blender/*_test.blend
+blender/*_dev.blend
+renders/animation/
+renders/dev/
+.runtime/
+__pycache__/
+*.pyc

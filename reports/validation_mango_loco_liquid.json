@@ -1,0 +1,494 @@
+{
+  "file": "mango_loco_liquid.blend",
+  "blender": "5.2.2 LTS",
+  "objects": {
+    "CAN_Body": {
+      "vertices": 5376,
+      "faces": 5376,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 7.12396254508046e-06,
+      "dimensions_m": [
+        0.06599999964237213,
+        0.06599999219179153,
+        0.14861977100372314
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "CAN_Bottom_Dome": {
+      "vertices": 3586,
+      "faces": 3840,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 5.113240504458011e-06,
+      "dimensions_m": [
+        0.06599999964237213,
+        0.06599999219179153,
+        0.006551249418407679
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "CAN_Clean_Source": {
+      "vertices": 8450,
+      "faces": 8704,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 1.2237203049538334e-05,
+      "dimensions_m": [
+        0.06599999964237213,
+        0.06599999219179153,
+        0.15517102181911469
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "CAN_Lid": {
+      "vertices": 454,
+      "faces": 236,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 1.896780242934593e-06,
+      "dimensions_m": [
+        0.05852000042796135,
+        0.05851999670267105,
+        0.0007861499325372279
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "CAN_Lid_Emboss": {
+      "vertices": 1536,
+      "faces": 1536,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 2.8729468637737888e-09,
+      "dimensions_m": [
+        0.01389948558062315,
+        0.013899484649300575,
+        0.000299485691357404
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "CAN_Lid_Emboss_Inner": {
+      "vertices": 1536,
+      "faces": 1536,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 1.0314752528570971e-09,
+      "dimensions_m": [
+        0.012687178328633308,
+        0.012687177397310734,
+        0.00018717854982241988
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "CAN_Pull_Tab": {
+      "vertices": 297,
+      "faces": 152,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 1.8752307947441937e-07,
+      "dimensions_m": [
+        0.013399999588727951,
+        0.027000000700354576,
+        0.0007019196636974812
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "CAN_Rivet_Bead": {
+      "vertices": 1536,
+      "faces": 1536,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 1.3179781340334e-09,
+      "dimensions_m": [
+        0.0037117928732186556,
+        0.003711792640388012,
+        0.0004117928328923881
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "CAN_Rolled_Rim": {
+      "vertices": 1536,
+      "faces": 1536,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 2.4841661843676265e-07,
+      "dimensions_m": [
+        0.05941968783736229,
+        0.05941968411207199,
+        0.0013476855820044875
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "CAN_Scored_Panel": {
+      "vertices": 104,
+      "faces": 54,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 1.2760167401568452e-07,
+      "dimensions_m": [
+        0.021700000390410423,
+        0.011599997989833355,
+        0.0005147409974597394
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "CAN_Tab_Raised_Spine": {
+      "vertices": 152,
+      "faces": 150,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 5.028109788303806e-09,
+      "dimensions_m": [
+        0.0020000000949949026,
+        0.00800000037997961,
+        0.0003275625058449805
+      ],
+      "modifiers": [],
+      "parent": "CAN_Pull_Tab"
+    },
+    "CAN_Tab_Rivet": {
+      "vertices": 128,
+      "faces": 66,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 5.993869597577157e-09,
+      "dimensions_m": [
+        0.0032999999821186066,
+        0.003299999749287963,
+        0.0007019196054898202
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "LIQ_Static_Fill": {
+      "vertices": 194,
+      "faces": 288,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 1.5084579942145856e-06,
+      "dimensions_m": [
+        0.06199999898672104,
+        0.06199999526143074,
+        0.108518585562706
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "SIM_Can_Collider": {
+      "vertices": 4353,
+      "faces": 4480,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 5.7246683102524396e-05,
+      "dimensions_m": [
+        0.06599999964237213,
+        0.06599999219179153,
+        0.15517102181911469
+      ],
+      "modifiers": [],
+      "parent": "CAN_Rig"
+    },
+    "SIM_Can_Lid_Proxy": {
+      "vertices": 394,
+      "faces": 232,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 9.055094246816767e-06,
+      "dimensions_m": [
+        0.05852000042796135,
+        0.05851999670267105,
+        0.0037435712292790413
+      ],
+      "modifiers": [
+        [
+          "Liquid | perforated lid collision",
+          "FLUID"
+        ]
+      ],
+      "parent": "CAN_Rig"
+    },
+    "SIM_Can_Wall_Proxy": {
+      "vertices": 1922,
+      "faces": 2048,
+      "nonmanifold_edges": 1,
+      "signed_volume_m3": 0.0001966440738900245,
+      "dimensions_m": [
+        0.07199999690055847,
+        0.07199998944997787,
+        0.15208257734775543
+      ],
+      "modifiers": [
+        [
+          "Liquid | can wall collision",
+          "FLUID"
+        ]
+      ],
+      "parent": "CAN_Rig"
+    },
+    "SIM_Ground_Collision": {
+      "vertices": 8,
+      "faces": 6,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 0.0028800003656745113,
+      "dimensions_m": [
+        0.6000000238418579,
+        0.6000000238418579,
+        0.00800000037997961
+      ],
+      "modifiers": [
+        [
+          "Liquid | ground collision",
+          "FLUID"
+        ]
+      ],
+      "parent": null
+    },
+    "SIM_Initial_Juice_Volume": {
+      "vertices": 130,
+      "faces": 192,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 0.00021736006677896465,
+      "dimensions_m": [
+        0.05000000074505806,
+        0.04999999701976776,
+        0.1108785942196846
+      ],
+      "modifiers": [
+        [
+          "Liquid | initial can contents",
+          "FLUID"
+        ]
+      ],
+      "parent": "CAN_Rig"
+    },
+    "SIM_Liquid_Domain": {
+      "vertices": 8,
+      "faces": 6,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 0.008959999971389767,
+      "dimensions_m": [
+        0.05557230859994888,
+        0.19058479368686676,
+        0.08089245855808258
+      ],
+      "modifiers": [
+        [
+          "Mantaflow | liquid domain",
+          "FLUID"
+        ],
+        [
+          "Liquid Particle System",
+          "PARTICLE_SYSTEM"
+        ]
+      ],
+      "parent": null
+    },
+    "SIM_Receiver_Bowl_Proxy": {
+      "vertices": 674,
+      "faces": 768,
+      "nonmanifold_edges": 1,
+      "signed_volume_m3": 3.3889024460925005e-05,
+      "dimensions_m": [
+        0.07999999821186066,
+        0.07999999821186066,
+        0.026000000536441803
+      ],
+      "modifiers": [
+        [
+          "Liquid | receiver collision",
+          "FLUID"
+        ]
+      ],
+      "parent": null
+    }
+  },
+  "errors": [],
+  "textures": [
+    {
+      "name": "Mango Loco | deprojected front / interim wrap",
+      "packed": true,
+      "path": "//../assets/textures/mango_loco_wrap.png",
+      "size": [
+        4096,
+        2048
+      ]
+    }
+  ],
+  "max_face_u_span": 0.003906264901161194,
+  "opening_test": [
+    {
+      "opening": 0.0,
+      "panel_ray_hit": false,
+      "lid_ray_hit": false,
+      "panel_angle": 0.0,
+      "tab_angle": 0.0
+    },
+    {
+      "opening": 1.0,
+      "panel_ray_hit": false,
+      "lid_ray_hit": false,
+      "panel_angle": 0.9200000166893005,
+      "tab_angle": 0.6200000047683716
+    }
+  ],
+  "fill_test": [
+    {
+      "fill": 0.2,
+      "top_z": 0.03284599632024765
+    },
+    {
+      "fill": 0.8,
+      "top_z": 0.1118839904665947
+    }
+  ],
+  "fluid": {
+    "data_baked": true,
+    "mesh_baked": true,
+    "cache": "//../cache/liquid/pour_verified_v4",
+    "cache_exists": true,
+    "frames": [
+      {
+        "frame": 1,
+        "vertices": 15030,
+        "faces": 30052,
+        "outside_lower_can_vertices": 0,
+        "receiver_vertices": 0,
+        "bounds": [
+          [
+            -0.024894380941987038,
+            0.02557666227221489
+          ],
+          [
+            -0.02489975094795227,
+            0.025585785508155823
+          ],
+          [
+            0.006864875555038452,
+            0.11891476064920425
+          ]
+        ]
+      },
+      {
+        "frame": 8,
+        "vertices": 16354,
+        "faces": 32700,
+        "outside_lower_can_vertices": 0,
+        "receiver_vertices": 0,
+        "bounds": [
+          [
+            -0.029762407764792442,
+            0.030073655769228935
+          ],
+          [
+            -0.027705691754817963,
+            0.02783091366291046
+          ],
+          [
+            0.006673917174339294,
+            0.1043110340833664
+          ]
+        ]
+      },
+      {
+        "frame": 20,
+        "vertices": 13272,
+        "faces": 26536,
+        "outside_lower_can_vertices": 0,
+        "receiver_vertices": 0,
+        "bounds": [
+          [
+            -0.029644984751939774,
+            0.02994708903133869
+          ],
+          [
+            -0.0858929306268692,
+            0.0030941739678382874
+          ],
+          [
+            0.02211982011795044,
+            0.09748953580856323
+          ]
+        ]
+      },
+      {
+        "frame": 32,
+        "vertices": 7572,
+        "faces": 15136,
+        "outside_lower_can_vertices": 12,
+        "receiver_vertices": 0,
+        "bounds": [
+          [
+            -0.024253670126199722,
+            0.024586766958236694
+          ],
+          [
+            -0.18503671884536743,
+            -0.03391815349459648
+          ],
+          [
+            0.030710402876138687,
+            0.09822013229131699
+          ]
+        ]
+      },
+      {
+        "frame": 44,
+        "vertices": 6420,
+        "faces": 12840,
+        "outside_lower_can_vertices": 0,
+        "receiver_vertices": 60,
+        "bounds": [
+          [
+            -0.02322663925588131,
+            0.022652510553598404
+          ],
+          [
+            -0.19325652718544006,
+            -0.04391292482614517
+          ],
+          [
+            0.008615128695964813,
+            0.09009534865617752
+          ]
+        ]
+      },
+      {
+        "frame": 56,
+        "vertices": 6456,
+        "faces": 12908,
+        "outside_lower_can_vertices": 6,
+        "receiver_vertices": 301,
+        "bounds": [
+          [
+            -0.05677594617009163,
+            0.024178236722946167
+          ],
+          [
+            -0.21042034029960632,
+            -0.04408480226993561
+          ],
+          [
+            0.000661209225654602,
+            0.08990184217691422
+          ]
+        ]
+      },
+      {
+        "frame": 64,
+        "vertices": 7666,
+        "faces": 15364,
+        "outside_lower_can_vertices": 0,
+        "receiver_vertices": 1966,
+        "bounds": [
+          [
+            -0.026783684268593788,
+            0.028788622468709946
+          ],
+          [
+            -0.23466697335243225,
+            -0.04408218339085579
+          ],
+          [
+            0.007065027952194214,
+            0.0879574865102768
+          ]
+        ]
+      }
+    ]
+  }
+}

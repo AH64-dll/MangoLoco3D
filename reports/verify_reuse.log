@@ -1,0 +1,16 @@
+Extensions: writing cache failed ([Errno 30] Read-only file system: '/home/amrhares/.config/blender/5.2/extensions/.cache/compat.dat').
+{
+  "master": "mango_loco_master.blend",
+  "appended_collections": [
+    "CAN_GEOMETRY",
+    "CAN_DETAILS",
+    "LIQUID_STATIC"
+  ],
+  "objects": 14,
+  "packed_textures": [
+    "Mango Loco | deprojected front / interim wrap"
+  ],
+  "opening_drives_panel": true,
+  "turntable_frame31_degrees": 90.00000250447816,
+  "result": "PASS"
+}

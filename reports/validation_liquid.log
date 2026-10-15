@@ -1,0 +1,161 @@
+00:00.296  blend            | Read blend: "/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/blender/mango_loco_liquid.blend"
+{
+  "report": "/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/reports/validation_mango_loco_liquid.json",
+  "errors": [
+    "CAN_Body nonmanifold edges 1",
+    "UV seam crosses whole label"
+  ],
+  "fluid": {
+    "data_baked": true,
+    "mesh_baked": true,
+    "cache": "//../cache/liquid/test_v1",
+    "cache_exists": true,
+    "frames": [
+      {
+        "frame": 1,
+        "vertices": 27626,
+        "faces": 55244,
+        "bounds": [
+          [
+            -0.03631210699677467,
+            0.037022147327661514
+          ],
+          [
+            -0.03800351172685623,
+            0.03874221444129944
+          ],
+          [
+            0.004467912018299103,
+            0.12501682341098785
+          ]
+        ]
+      },
+      {
+        "frame": 8,
+        "vertices": 29430,
+        "faces": 58852,
+        "bounds": [
+          [
+            -0.036318786442279816,
+            0.03709828853607178
+          ],
+          [
+            -0.038032226264476776,
+            0.03888842463493347
+          ],
+          [
+            0.002347894012928009,
+            0.12941433489322662
+          ]
+        ]
+      },
+      {
+        "frame": 20,
+        "vertices": 40502,
+        "faces": 81112,
+        "bounds": [
+          [
+            -0.039207905530929565,
+            0.039526671171188354
+          ],
+          [
+            -0.11257068812847137,
+            0.019224092364311218
+          ],
+          [
+            0.00604141503572464,
+            0.13683244585990906
+          ]
+        ]
+      },
+      {
+        "frame": 32,
+        "vertices": 40096,
+        "faces": 80172,
+        "bounds": [
+          [
+            -0.06679642200469971,
+            0.0446978360414505
+          ],
+          [
+            -0.15877923369407654,
+            0.004617974162101746
+          ],
+          [
+            -0.0014472603797912598,
+            0.12234607338905334
+          ]
+        ]
+      },
+      {
+        "frame": 44,
+        "vertices": 42082,
+        "faces": 84136,
+        "bounds": [
+          [
+            -0.06704520434141159,
+            0.06647639721632004
+          ],
+          [
+            -0.15914848446846008,
+            0.012134552001953125
+          ],
+          [
+            -0.0014365538954734802,
+            0.12185585498809814
+          ]
+        ]
+      },
+      {
+        "frame": 56,
+        "vertices": 44246,
+        "faces": 88480,
+        "bounds": [
+          [
+            -0.06704568862915039,
+            0.0664219930768013
+          ],
+          [
+            -0.1589047610759735,
+            0.017760902643203735
+          ],
+          [
+            -0.0014416426420211792,
+            0.12121793627738953
+          ]
+        ]
+      },
+      {
+        "frame": 64,
+        "vertices": 45548,
+        "faces": 91080,
+        "bounds": [
+          [
+            -0.06704643368721008,
+            0.0664193332195282
+          ],
+          [
+            -0.159076526761055,
+            0.020718790590763092
+          ],
+          [
+            -0.0014452040195465088,
+            0.12103787064552307
+          ]
+        ]
+      }
+    ]
+  }
+}
+Traceback (most recent call last):
+  File "/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/scripts/validate.py", line 75, in <module>
+    inspect()
+    ~~~~~~~^^
+  File "/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/scripts/validate.py", line 72, in inspect
+    if report['errors']:raise RuntimeError('Asset validation errors; see report')
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Asset validation errors; see report
+
+Error: script failed, file: 'MangoLoco3D/scripts/validate.py', exiting.
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:34:58)
+pa_write() failed while trying to wake up the mainloop: Operation not permitted

@@ -1,0 +1,12 @@
+00:16.322  render           | Saved: '/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/front.png'
+Extensions: writing cache failed ([Errno 30] Read-only file system: '/home/amrhares/.config/blender/5.2/extensions/.cache/compat.dat').
+Info: Saved as "mango_loco_studio.blend"
+RENDER_DONE /run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/front.png
+00:31.617  render           | Saved: '/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/three_quarter.png'
+RENDER_DONE /run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/three_quarter.png
+00:46.956  render           | Saved: '/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/side.png'
+RENDER_DONE /run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/side.png
+00:56.497  render           | Saved: '/run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/top.png'
+RENDER_DONE /run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/renders/previews/top.png
+Info: Saved as "mango_loco_studio.blend"
+BUILD_DONE /run/media/amrhares/New Volume/New folder (4)/MangoLoco3D/blender/mango_loco_studio.blend
